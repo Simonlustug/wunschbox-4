@@ -1,0 +1,4 @@
+Flask
+tidalapi
+gunicorn
+requests
